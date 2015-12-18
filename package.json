@@ -1,0 +1,18 @@
+{
+  "name": "scjs-content-entry",  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/santacruzjs/scjs-contest-entry"
+  },
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "command-line-args": "^2.1.3",
+    "random-number-generator": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "npm": ">1.3.14"
+  },
+  "main": "select.js"
+}
